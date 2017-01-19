@@ -1,0 +1,46 @@
+body {
+  background-color: #737373;
+  margin-bottom: 85px;
+}
+#forecast {
+  margin-top: 45px;
+}
+.heading {
+  font-family: "Alegreya Sans";
+  font-size: 300%;
+}
+.jumbotron {
+  max-width: 80%;
+  margin: auto;
+  margin-top: 5%;
+}
+.btn {
+  margin-top: 10%;
+  background-color: #737373;
+  border-color: #737373;
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+}
+.btn:hover {
+  background-color: #006dcc;
+}
+
+/*Below is for the forecast div*/
+
+.icon {
+  font-size: 300%;
+  margin-bottom: 10%;
+}
+.categories {
+  font-weight: bold;
+  font-size: 160%;
+  margin-top: -532%;
+  margin-left: 3%;
+}
+.body-text {
+  font-size: 300%;
+  font-family: "Alegreya Sans";
+}
